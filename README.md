@@ -1,0 +1,1 @@
+# helm-repo-for-bitnami-postgresql-ha-onlyservice
